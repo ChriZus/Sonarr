@@ -5,12 +5,12 @@ Here is the Sonarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require kryptonit3/sonarr
+composer require chrizus/sonarr
 ```
 
 ## Example Usage
 ```php
-use Kryptonit3\Sonarr\Sonarr;
+use BergPlaza\Sonarr\Sonarr;
 ```
 ```php
 public function addSeries()
