@@ -4,6 +4,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Jesse Szypulski",
+            "email": "jesse.szypulski@gmail.com"
+        },
+        {
             "name": "Chris van den Berg",
             "email": "chrizus@gmail.com"
         }
