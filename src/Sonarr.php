@@ -1,6 +1,6 @@
 <?php
 
-namespace Kryptonit3\Sonarr;
+namespace BergPlaza\Sonarr;
 
 use GuzzleHttp\Client;
 
