@@ -1,15 +1,15 @@
 {
-    "name": "kryptonit3/sonarr",
+    "name": "chrizus/sonarr",
     "description": "PHP Sonarr API Wrapper",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jesse Szypulski",
-            "email": "jesse.szypulski@gmail.com"
+            "name": "Chris van den Berg",
+            "email": "chrizus@gmail.com"
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.1"
+        "guzzlehttp/guzzle": ">=6.1"
     },
     "autoload": {
         "psr-4": {
