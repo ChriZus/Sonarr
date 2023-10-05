@@ -1,4 +1,4 @@
-> **READ THIS FIRST**
+> **Warning**
 >
 > This package waas forked from [Kryptonit3-zz/Sonarr](https://github.com/Kryptonit3-zz/Sonarr) and adapted for my personal preference and use. I do **not** recommend using this package in your project, but use the 
 > original project [Kryptonit3-zz/Sonarr]([https://github.com/Sonarr/Sonarr](https://github.com/Kryptonit3-zz/Sonarr))
